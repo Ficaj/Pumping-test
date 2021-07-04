@@ -1,0 +1,8 @@
+			
+Q	14	l/s	pumping amountt
+hw	120	m	depth of the well
+M	57	m	thickness of the aquifer 
+K	4,60526E-05	m/s	hydraulic conductivity 
+S	0,044134083	m-1	storativity of the aquifer
+rv	0,1615	m	radius of the well
+T	0,002625	m2/s	transmisivity	
