@@ -1,0 +1,9 @@
+Application: Pumping test
+Type: Shiny application
+Title: Software for evaluating pumping tests on real wells
+Version: 0.1.0
+Author: Václav Ficaj
+Maintainer: Vaclav Ficaj <ficaj@fzp.czu.cz>
+Description: The evaluation of pumping tests for groundwater wells.
+License: GPL-3
+Encoding: UTF-8
